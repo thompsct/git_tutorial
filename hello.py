@@ -7,7 +7,7 @@ For practicing with git
 
 
 def do_stuff(name="World"):
-    print "Hello %s!" % name
+    print "HELLO %s!!!" % name.upper()
 
 
 if __name__ == '__main__':
